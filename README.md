@@ -1,3 +1,3 @@
 # Lab_Works
 
-Contains lab works of Object Oriented Programming and Data Structures and Algorithms.
+Contains lab works of Object Oriented Programming,Data Structures and Algorithms,Numerical Methods.
